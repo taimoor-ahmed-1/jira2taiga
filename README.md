@@ -1,1 +1,1 @@
-This project is for import jira data in taiga.
+This project is for importing jira data in taiga.
